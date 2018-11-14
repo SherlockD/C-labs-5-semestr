@@ -1,4 +1,6 @@
 ﻿  diary.cpp
 c:\users\user\source\repos\diary\diary\diary.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
 c:\users\user\source\repos\diary\diary\diary.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\diary\diary\diary.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\diary\diary\diary.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
   diary.vcxproj -> C:\Users\User\source\repos\diary\Debug\diary.exe
