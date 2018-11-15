@@ -1,3 +1,4 @@
-﻿  Palindrom.cpp
-c:\users\user\source\repos\palindrom\palindrom\palindrom.cpp(42): warning C4018: >=: несоответствие типов со знаком и без знака
-  Palindrom.vcxproj -> C:\Users\User\source\repos\Palindrom\Debug\Palindrom.exe
+﻿  pch.cpp
+  Palindrom.cpp
+f:\c-labs-5-semestr\palindrom\palindrom\palindrom.cpp(56): warning C4018: >=: несоответствие типов со знаком и без знака
+  Palindrom.vcxproj -> F:\C-labs-5-semestr\Palindrom\Debug\Palindrom.exe
